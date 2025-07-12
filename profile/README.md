@@ -4,14 +4,7 @@ Recal provides a single, unified Calendar API to effortlessly connect your appli
 
 Our API is built to be **API-first**, **LLM-friendly**, and **async & resilient**, allowing you to build seamless calendar integrations and agentic workflows at scale. We handle the complexity so you can watch the magic happen in real-time.
 
-## 🚀 Getting Started
-
-Ready to integrate powerful scheduling into your application?
-
-1.  **Sign Up:** Visit our website at [recal.dev](https://recal.dev) and create an account.
-2.  **Get Your Keys:** Access your API keys from the developer dashboard.
-3.  **Read the Docs:** Check out our [Documentation](https://recal.dev/docs) for detailed guides.
-4.  **Start Building!** Use our REST API or NPM package to begin your integration.
+**Sign Up:** Visit our website at [recal.dev](https://recal.dev) and create an account.
 
 ## ✨ Key Features
 
